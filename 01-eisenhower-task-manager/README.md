@@ -184,7 +184,7 @@ The spreadsheet is the output. The thinking the conversation forces is the actua
 
 The comments on my LinkedIn post will shape the next project.
 
-If you found this useful, or if you tried it and something did not work, I want to know. Connect with me on LinkedIn or reply to me on X at @nashpd.
+If you found this useful, or if you tried it and something did not work, I want to know. Connect with me on [LinkedIn](https://www.linkedin.com/in/nash-david/) or reply to me on X at @nashpd.
 
 Every project I publish here will follow the same format: a real problem, a real build, every step documented, no assumed knowledge.
 

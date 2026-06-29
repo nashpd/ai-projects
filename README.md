@@ -12,6 +12,6 @@ Real AI projects built step by step. No jargon. No assumed knowledge. Every proj
 
 ---
 
-Follow along on [LinkedIn](https://www.linkedin.com/in/nashdavid/) or [X @nashpd](https://x.com/nashpd).
+Follow along on [LinkedIn](https://www.linkedin.com/in/nash-david/) or [X @nashpd](https://x.com/nashpd).
 
 Each project starts with a real problem, builds something real, and documents every step with no assumed knowledge.
