@@ -1,6 +1,6 @@
 # Google Sheet Template
 
-Open the template here: [Eisenhower Task Manager — Google Sheet](https://docs.google.com/spreadsheets/d/1CjkV3VCkCoYdiMAaJoyTcbodnwSywy3HvqkXRmOx0wA/edit?usp=sharing)
+Open the template here: [Eisenhower Task Manager — Google Sheet](https://docs.google.com/spreadsheets/d/1CjkV3VCkCoYdiMAaJoyTcbodnwSywy3HvqkXRmOx0wA/copy)
 
 To use it: open the link, go to File > Make a Copy, and save it to your Google Drive. The copy is yours to edit. Nothing you do will affect the original.
 
