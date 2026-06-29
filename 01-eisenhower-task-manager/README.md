@@ -2,7 +2,6 @@
 
 *By Nash David | nashpd on X | Published July 2026*
 
----
 
 ## Before You Read This
 
@@ -18,7 +17,6 @@ What you need: a free AI tool, a Google account, and about 45 minutes the first 
 
 I was in exactly this position not long ago. Clueless about GitHub, uncertain whether any of this was for someone like me, and defaulting to watching from the sidelines. This document is the one I wished existed then. Every step. Every prompt I typed. Every decision I made and why. Including the ones that did not work on the first try.
 
----
 
 ## What Is GitHub, and Why Are You Here?
 
@@ -30,7 +28,6 @@ I am using it here for one reason. I wanted a place where I could share the full
 
 You do not need a GitHub account to read this. You are already reading it. If you want to download the files I have shared here, you will need a free account. Creating one takes three minutes. There is a green button at the top of this page that says "Code." That is where you find the files.
 
----
 
 ## What We Are Building
 
@@ -53,7 +50,6 @@ Instead of you having to sort your own tasks while already overwhelmed, you desc
 
 We are going to build a Google Sheet that holds this system, and we are going to use AI to populate it.
 
----
 
 ## What You Will Need
 
@@ -61,7 +57,6 @@ We are going to build a Google Sheet that holds this system, and we are going to
 2. Access to an AI tool. I used Claude (claude.ai). There is a free tier. You can also use ChatGPT (chatgpt.com). Both work for this project.
 3. A list of your actual tasks. Whatever is on your mind right now, work or personal, big or small.
 
----
 
 ## How to Use an AI Tool: Your First Conversation
 
@@ -73,7 +68,6 @@ The AI responds in the same window, directly below what you typed. You can reply
 
 For this project, you will open a new conversation, paste the prompt from Step 3, add your task list at the bottom of it, and send. The AI will either ask you clarifying questions or return a sorted list. If it asks questions, answer them in plain sentences. When it gives you the sorted output, you copy it. Nothing more is required.
 
----
 
 ## Step 1: Set Up Your Google Sheet
 
@@ -94,7 +88,6 @@ Name your sheet something simple. "My Task Manager" works.
 
 I have shared a pre-built version of this sheet in this repository. The link is in `task-tracker-sheet-link.md`. You can make a copy of it directly into your Google Drive rather than building from scratch. Either approach works.
 
----
 
 ## Step 2: Write Down Your Tasks
 
@@ -106,7 +99,6 @@ They can be vague. "Reply to Rahul" is fine. "Figure out the project thing" is f
 
 The goal is to empty your head onto the page. Every open commitment you are carrying, however small, goes in. In my experience, when you think you are done, you will find three more. Keep going until the list feels genuinely complete.
 
----
 
 ## Step 3: Open Your AI Tool
 
@@ -114,7 +106,6 @@ Go to claude.ai or chatgpt.com. Open a new conversation.
 
 Copy this prompt exactly. Paste it in and press send:
 
----
 
 *I am going to give you a list of tasks. For each task, I need you to help me sort it using the Eisenhower Matrix. The four categories are:*
 
@@ -128,11 +119,9 @@ Copy this prompt exactly. Paste it in and press send:
 *Here are my tasks:*
 *[paste your task list here]*
 
----
 
 Paste your task list where indicated and send.
 
----
 
 ## Step 4: Move the Output Into Your Sheet
 
@@ -148,7 +137,6 @@ Go back to your Google Sheet. For each task the AI has categorised:
 
 If the AI's categorisation does not feel right for a particular task, change it. You know your situation better than it does. The AI gives you a starting point. You make the final call.
 
----
 
 ## Step 5: Use It
 
@@ -158,7 +146,6 @@ Work from Quadrant 1 first. When those are done, move to Quadrant 2. Do not touc
 
 Update the sheet weekly. At the start of each week, add new tasks and run the same prompt again with the new items. It takes ten minutes once you know the system.
 
----
 
 ## What I Learned Building This
 
@@ -170,7 +157,6 @@ That one question moved it out of Quadrant 1. The mental space I had been spendi
 
 The spreadsheet is the output. The thinking the conversation forces is the actual value.
 
----
 
 ## Files in This Repository
 
@@ -180,7 +166,6 @@ The spreadsheet is the output. The thinking the conversation forces is the actua
 
 *The Google Sheet template will be linked here before Friday 04-Jul-2026.*
 
----
 
 ## What Is Next
 
@@ -190,6 +175,5 @@ If you found this useful, or if you tried it and something did not work, I want 
 
 Every project I publish here will follow the same format: a real problem, a real build, every step documented, no assumed knowledge.
 
----
 
 *This document is intentionally written without jargon. If any part of it is unclear, that is a failure of the writing, not a gap in your knowledge. Tell me what confused you.*
