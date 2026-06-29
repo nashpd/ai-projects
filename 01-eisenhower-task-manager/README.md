@@ -6,7 +6,9 @@
 
 ## Before You Read This
 
-You do not need to know how to code.
+If you are an experienced developer or someone already comfortable with GitHub, this section may feel unnecessary. It is not written for you — though you are welcome to read on.
+
+This is written for people who have not learnt how to code yet. People who landed here from a LinkedIn post, are not sure what GitHub is, and are wondering whether any of this is actually meant for them. It is.
 
 You do not need to have used GitHub before. If you are confused about what GitHub even is and why you are reading a document here, I will explain that in a moment.
 
@@ -14,7 +16,7 @@ You do not need any special software beyond what you already have.
 
 What you need: a free AI tool, a Google account, and about 45 minutes the first time. Less once you know what you are doing.
 
-This document walks through the exact project I described in my LinkedIn post. Every step. Every prompt I typed. Every decision I made and why. Including the ones that did not work on the first try.
+I was in exactly this position not long ago. Clueless about GitHub, uncertain whether any of this was for someone like me, and defaulting to watching from the sidelines. This document is the one I wished existed then. Every step. Every prompt I typed. Every decision I made and why. Including the ones that did not work on the first try.
 
 ---
 
